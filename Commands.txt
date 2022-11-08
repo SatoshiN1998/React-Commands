@@ -1,0 +1,24 @@
+WEB App:
+
+1. creat app:
+npx create-react-app "name"
+
+2. cd to the project directory:
+cd "name"
+
+3. start development server:
+npm start
+
+Android App:
+
+1. creat app:
+npx react-native init "name"
+
+2. cd to the project directory:
+cd "name"
+
+3. start development server:
+npm start
+
+4. open android emulator:
+npx react-native run-android
